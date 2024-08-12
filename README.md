@@ -46,6 +46,8 @@ cd spotifyCloneFrontEnd
 
 ## Screenshots
 
+<img width="1470" alt="Screenshot 2024-08-12 at 11 49 35 AM" src="https://github.com/user-attachments/assets/91a1a817-f1ae-4368-8273-38297cd5af6c">
+
 
 ## Contributions
 
